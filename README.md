@@ -1,4 +1,4 @@
-### Stock Newsletter Generator with Agents
+# Stock Newsletter Generator with Agents
 
 Web application that generates a newsletter based on a stock ticket that the user provides (e.g "AAPL")
 
