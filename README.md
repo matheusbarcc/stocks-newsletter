@@ -1,6 +1,6 @@
 # Stock Newsletter Generator with Agents
 
-Web application that generates a newsletter based on a stock ticket that the user provides (e.g "AAPL")
+Web application that generates a newsletter based on a stock ticket (e.g "AAPL")
 
 ## How it works
 - 3 AI agents powered by GPT-3.5
